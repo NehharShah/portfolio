@@ -6,7 +6,7 @@ const matter = require('gray-matter')
 async function generate() {
   const feed = new RSS({
     title: 'Nihar Shah',
-    site_url: 'https://nehhartechnologist.com,
+    site_url: 'https://nehhartechnologist.com'
     // feed_url: 'https://yoursite.com/feed.xml'
   })
 
