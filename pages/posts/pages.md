@@ -1,8 +1,8 @@
 ---
-title: Next.js Pages
-date: 2021/3/18
-description: Learn more about Next.js pages.
-tag: web development
+title: Blockchain 101
+date: 
+description: Basic Introduction to Blockchain
+tag: Blockchain
 author: You
 ---
 
