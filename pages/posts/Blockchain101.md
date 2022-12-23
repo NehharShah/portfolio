@@ -50,55 +50,53 @@ Encryption is a codification of an input. Information demands that only when the
 
 There are two types of encryption 
 
-###### Symmetric Key Encryption
+1. Symmetric Key Encryption
 
-###### Asymmetric Key Encryption
+2. Asymmetric Key Encryption
 
 Blockchain technology mostly uses an Asymmetric Key Encryption tool. Asymmetric uses two interrelated keys. One key is a Public Key and the other is a Private Key. The public key is used for encryption and the private key is for decryption. 
 
-###### Public Key: 
-The sender and receiver have access and it is shared amongst the shareholders.
+1. Public Key: The sender and receiver have access and it is shared amongst the shareholders.
 
-###### Private Key: 
-It keeps confidential details for the owner. It is impossible to find the pairing of the private key that is used for the public key addition.
+2. Private Key: It keeps confidential details for the owner. It is impossible to find the pairing of the private key that is used for the public key addition.
 
 ## Hashing
 Every blockchain network uses hashing to provide Data Integrity. In Blockchain Networks, Public Keys are useful in creating a secure reference about the identity of users or entities. Secured references include "who owns what" and "who is who" in the peer-to-peer network. This identity is more important in Public Blockchains. 
 
-Hashing in Cryptocurrency networks is used for the following purposes: 
+1. Hashing in Cryptocurrency networks is used for the following purposes: 
 
-Encoding the Wallet address 
+2. Encoding the Wallet address 
 
-Encoding the Wallet transactions 
+3. Encoding the Wallet transactions 
 
-Verifying the wallet balances 
+4. Verifying the wallet balances 
 
 ## Proof of Work 
 
 Hashing techniques are used in creating blocks. They use the Secure Hashing Algorithm (SHA) with 256 - a bit key length. SHA generates a fixed-length hash code to variable-length input from the user. The strength of the hash function is unidirectional i.e. hash output ‘h’ can be produced but the input for h cannot be reconstructed. This powerful feature makes SHA-256 an ideal choice for use in Blockchain Technology. New algorithms like Zero-Knowledge Proof and Ring Signatures, are also being tried for Privacy-preserving functionality in Blockchain through Layer 2 network platforms.
 
 ### Properties:
-Infeasible to find Private keys from Public keys.
+1. Infeasible to find Private keys from Public keys.
 
-All valid signatures verify.
+2. All valid signatures verify.
 
-Signatures are impossible to forge.
+3. Signatures are impossible to forge.
 
-If the Public Key is forgotten or removed, it can be restored by the Private Key.
+4. If the Public Key is forgotten or removed, it can be restored by the Private Key.
 
 ### Keccak-256:
-Keccak256 is a cryptographic function built into solidity smart contract implementation. 
+1. Keccak256 is a cryptographic function built into solidity smart contract implementation. 
 
-This function takes in any amount of input and converts it to a unique 32-byte hash. 
+2. This function takes in any amount of input and converts it to a unique 32-byte hash. 
 
-The sample contract below takes a text value, a number, and an Ethereum address and converts it to a unique 32-byte hash using Keccak 256.
+3. The sample contract below takes a text value, a number, and an Ethereum address and converts it to a unique 32-byte hash using Keccak 256.
 
-It nevertheless can also be used for authentication, (authenticated) encryption, and pseudo-random number generation.
+4. It nevertheless can also be used for authentication, (authenticated) encryption, and pseudo-random number generation.
 
 ### Resources:
-Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
+1. Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
 
-Ethereum Whitepaper: https://ethereum.org/en/whitepaper/
+2. Ethereum Whitepaper: https://ethereum.org/en/whitepaper/
 
 In the next article, we will be deep diving into the topics of blockchain.
 
