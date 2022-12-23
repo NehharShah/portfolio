@@ -10,7 +10,7 @@ author: You
 
 If the internet enables connectivity, Blockchain enables trust and transparency.
 
-Blockchain represents a distributed ledger that records transactions between two entities in a verifiable and permanent way through the use of cryptography. Herein it is based on Cryptography and Human Logic.
+Blockchain represents a distributed ledger that records transactions between two entities in a verifiable and permanent way through the use of cryptography. Herein it is based on **Cryptography and Human Logic**.
 
 Blockchain is a program that holds conditions and describes how to improve respective conditions according to inputs that are received. These inputs are called transactions. A blockchain architecture has the following components:
 
