@@ -1,0 +1,622 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "nehharshah",
+    "displayName": "Nihar Shah",
+    "profession": "@Starkware | EX-@NYUCourant",
+    "location": null,
+    "pronouns": null,
+    "byline": "@Starkware | EX-@NYUCourant",
+    "website": null,
+    "websiteURL": null,
+    "about": null,
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Contact",
+      "Side Projects",
+      "Exhibitions",
+      "Writing",
+      "Features",
+      "Work Experience",
+      "Volunteering",
+      "Education",
+      "Awards",
+      "Speaking",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "7b5Dh1fcPo0X1WTvSlUO",
+      "year": "2024",
+      "heading": "Solidity Programming Practical Implementation at Conference",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/uploads/3.BROCHURE_579691.pdf",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "talk",
+      "title": "Solidity Programming Practical Implementation",
+      "event": "Conference",
+      "location": "AICTE"
+    },
+    {
+      "id": "PDgiKIXnPbZXL4vcMNsR",
+      "year": "2023",
+      "heading": "Web3, Smart Contracts & Intro to Blockchain at Webinar",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScyf6JW-1qax6hRYcxfzPZijFoWjjkTfo1D8EBVxFTTq7Q62w/viewform?pli=1",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "talk",
+      "title": "Web3, Smart Contracts & Intro to Blockchain",
+      "event": "Webinar",
+      "location": "L.D College of Engineering"
+    }
+  ],
+  "writing": [],
+  "awards": [
+    {
+      "id": "wDSftBPKTCw4mnulakf6",
+      "year": "2023",
+      "heading": "HACKGPT Hackathon - Cohere Challenge: 1st Place from Cornell Tech",
+      "url": "https://devpost.com/software/instantresearch-ai",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "award",
+      "title": "HACKGPT Hackathon - Cohere Challenge: 1st Place",
+      "presenter": "Cornell Tech"
+    },
+    {
+      "id": "blrbEWueq8PZxFYcC9L5",
+      "year": "2023",
+      "heading": "IC3 Blockchain Camp 2023 - Second Place: \"DECO\" from IC3",
+      "url": "https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "award",
+      "title": "IC3 Blockchain Camp 2023 - Second Place: \"DECO\"",
+      "presenter": "IC3"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "NV4cF4DO4DMV5WVC7G47",
+      "year": "2024 — Now",
+      "heading": "Exploration Eng at Starkware",
+      "url": "https://starkware.co/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Exploration Eng",
+      "company": "Starkware",
+      "location": "New York"
+    },
+    {
+      "id": "xwVhTikVS823HGGbOPhG",
+      "year": "2024 — Now",
+      "heading": "Advisor at Sizzle",
+      "url": "https://www.joinsizzle.app/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Advisor",
+      "company": "Sizzle",
+      "location": "New York"
+    },
+    {
+      "id": "IdMBm4yUecWKnvZkFhh4",
+      "year": "2023 — Now",
+      "heading": "Web3 Fellow at Areta",
+      "url": "https://areta.io/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web3 Fellow",
+      "company": "Areta",
+      "location": "Remote"
+    },
+    {
+      "id": "yzNVpltw7lNBv5lX4e8t",
+      "year": "2023 — 2024",
+      "heading": "CTO at HIFI Bridge",
+      "url": "https://www.hifibridge.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "CTO",
+      "company": "HIFI Bridge",
+      "location": "Manhattan"
+    },
+    {
+      "id": "uXjYQs5seLAnlx6v8lcu",
+      "year": "2023 — 2023",
+      "heading": "Technical Lead Intern at Block Convey",
+      "url": "https://www.blockconvey.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Technical Lead Intern",
+      "company": "Block Convey",
+      "location": "Manhattan"
+    },
+    {
+      "id": "MmzTCNFjMWvgmkIZMkoA",
+      "year": "2022 — 2022",
+      "heading": "Visiting Faculty & Professor – Blockchain at Great Lakes Institute of Management",
+      "url": "https://www.greatlakes.edu.in/chennai/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Visiting Faculty & Professor – Blockchain",
+      "company": "Great Lakes Institute of Management",
+      "location": "Chennai"
+    },
+    {
+      "id": "Pw1cZqh9cA6MOpVpDKpF",
+      "year": "2021 — 2022",
+      "heading": "Blockchain Lead Consultant & Developer at Opx AI Inc",
+      "url": "https://www.opxai.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Blockchain Lead Consultant & Developer",
+      "company": "Opx AI Inc",
+      "location": "Remote"
+    },
+    {
+      "id": "tJgnPmUuhC01N7VXa1ZX",
+      "year": "2020 — 2021",
+      "heading": "Data Scientist at Vyom Labs Pvt. Ltd",
+      "url": "https://vyomlabs.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Data Scientist",
+      "company": "Vyom Labs Pvt. Ltd",
+      "location": "Pune"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "YXpbqRV75IKz5zn9xBY9",
+      "year": "2023 — Now",
+      "heading": "Developer Expert at Chainlink",
+      "url": "https://chain.link/developers/experts",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Developer Expert",
+      "organization": "Chainlink",
+      "location": "Remote"
+    },
+    {
+      "id": "ltnPD364oyQAyDlc0z58",
+      "year": "2022 — Now",
+      "heading": "Community Advocate at Chainlink",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Community Advocate",
+      "organization": "Chainlink",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "id": "9n8CP6wwNBFFwRS82X2T",
+      "year": "2023 — Now",
+      "heading": "Masters at New York University",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Masters",
+      "school": "New York University",
+      "location": "Manhattan"
+    },
+    {
+      "id": "v56YHj1eQ8TUwFXHtfov",
+      "year": "2016 — 2020",
+      "heading": "Bachelor of Technology at Savitribai Phule Pune University",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Technology",
+      "school": "Savitribai Phule Pune University",
+      "location": ""
+    }
+  ],
+  "certifications": [
+    {
+      "id": "78EFiFYK0K2NnpJdvZ5Z",
+      "year": "2022",
+      "heading": "Blockchain Technology and Applications from Stanford Continuing Studies",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Blockchain Technology and Applications",
+      "organization": "Stanford Continuing Studies"
+    },
+    {
+      "id": "mPYgDvqtjN1L7x8JAItp",
+      "year": "2021",
+      "heading": "Certified Blockchain Developer from Blockchain Council",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Certified Blockchain Developer",
+      "organization": "Blockchain Council"
+    },
+    {
+      "id": "CxUP50oMDzmouyNQI5u4",
+      "year": "2020",
+      "heading": "Azure AI Fundamentals from Microsoft",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Azure AI Fundamentals",
+      "organization": "Microsoft"
+    }
+  ],
+  "contact": [
+    {
+      "id": "bcSCb0s1KzMiEM86A3aB",
+      "platform": "GitHub",
+      "handle": "NehharShah",
+      "url": "https://github.com/NehharShah"
+    },
+    {
+      "id": "owoh71SaAg7kZsli7eG9",
+      "platform": "LinkedIn",
+      "handle": "nihar-shah-139331106",
+      "url": "https://linkedin.com/in/nihar-shah-139331106"
+    },
+    {
+      "id": "kQXo1cHysoxXZs7lQMa5",
+      "platform": "Email",
+      "handle": "nehharshah@gmail.com",
+      "url": "mailto:nehharshah@gmail.com"
+    },
+    {
+      "id": "twitterContact",
+      "platform": "Twitter",
+      "handle": "NehharShah",
+      "url": "https://x.com/NehharShah"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "bcSCb0s1KzMiEM86A3aB",
+          "platform": "GitHub",
+          "handle": "NehharShah",
+          "url": "https://github.com/NehharShah"
+        },
+        {
+          "id": "owoh71SaAg7kZsli7eG9",
+          "platform": "LinkedIn",
+          "handle": "nihar-shah-139331106",
+          "url": "https://linkedin.com/in/nihar-shah-139331106"
+        },
+        {
+          "id": "kQXo1cHysoxXZs7lQMa5",
+          "platform": "Email",
+          "handle": "nehharshah@gmail.com",
+          "url": "mailto:nehharshah@gmail.com"
+        },
+        {
+          "id": "twitterContact",
+          "platform": "Twitter",
+          "handle": "NehharShah",
+          "url": "https://x.com/NehharShah"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "NV4cF4DO4DMV5WVC7G47",
+          "year": "2024 — Now",
+          "heading": "Exploration Eng at Starkware",
+          "url": "https://starkware.co/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Exploration Eng",
+          "company": "Starkware",
+          "location": "New York"
+        },
+        {
+          "id": "xwVhTikVS823HGGbOPhG",
+          "year": "2024 — Now",
+          "heading": "Advisor at Sizzle",
+          "url": "https://www.joinsizzle.app/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Advisor",
+          "company": "Sizzle",
+          "location": "New York"
+        },
+        {
+          "id": "IdMBm4yUecWKnvZkFhh4",
+          "year": "2023 — Now",
+          "heading": "Web3 Fellow at Areta",
+          "url": "https://areta.io/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web3 Fellow",
+          "company": "Areta",
+          "location": "Remote"
+        },
+        {
+          "id": "yzNVpltw7lNBv5lX4e8t",
+          "year": "2023 — 2024",
+          "heading": "CTO at HIFI Bridge",
+          "url": "https://www.hifibridge.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "CTO",
+          "company": "HIFI Bridge",
+          "location": "Manhattan"
+        },
+        {
+          "id": "uXjYQs5seLAnlx6v8lcu",
+          "year": "2023 — 2023",
+          "heading": "Technical Lead Intern at Block Convey",
+          "url": "https://www.blockconvey.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Technical Lead Intern",
+          "company": "Block Convey",
+          "location": "Manhattan"
+        },
+        {
+          "id": "MmzTCNFjMWvgmkIZMkoA",
+          "year": "2022 — 2022",
+          "heading": "Visiting Faculty & Professor – Blockchain at Great Lakes Institute of Management",
+          "url": "https://www.greatlakes.edu.in/chennai/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Visiting Faculty & Professor – Blockchain",
+          "company": "Great Lakes Institute of Management",
+          "location": "Chennai"
+        },
+        {
+          "id": "Pw1cZqh9cA6MOpVpDKpF",
+          "year": "2021 — 2022",
+          "heading": "Blockchain Lead Consultant & Developer at Opx AI Inc",
+          "url": "https://www.opxai.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Blockchain Lead Consultant & Developer",
+          "company": "Opx AI Inc",
+          "location": "Remote"
+        },
+        {
+          "id": "tJgnPmUuhC01N7VXa1ZX",
+          "year": "2020 — 2021",
+          "heading": "Data Scientist at Vyom Labs Pvt. Ltd",
+          "url": "https://vyomlabs.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Data Scientist",
+          "company": "Vyom Labs Pvt. Ltd",
+          "location": "Pune"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "YXpbqRV75IKz5zn9xBY9",
+          "year": "2023 — Now",
+          "heading": "Developer Expert at Chainlink",
+          "url": "https://chain.link/developers/experts",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Developer Expert",
+          "organization": "Chainlink",
+          "location": "Remote"
+        },
+        {
+          "id": "ltnPD364oyQAyDlc0z58",
+          "year": "2022 — Now",
+          "heading": "Community Advocate at Chainlink",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Community Advocate",
+          "organization": "Chainlink",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "9n8CP6wwNBFFwRS82X2T",
+          "year": "2023 — Now",
+          "heading": "Masters at New York University",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Masters",
+          "school": "New York University",
+          "location": "Manhattan"
+        },
+        {
+          "id": "v56YHj1eQ8TUwFXHtfov",
+          "year": "2016 — 2020",
+          "heading": "Bachelor of Technology at Savitribai Phule Pune University",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Technology",
+          "school": "Savitribai Phule Pune University",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "wDSftBPKTCw4mnulakf6",
+          "year": "2023",
+          "heading": "HACKGPT Hackathon - Cohere Challenge: 1st Place from Cornell Tech",
+          "url": "https://devpost.com/software/instantresearch-ai",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "award",
+          "title": "HACKGPT Hackathon - Cohere Challenge: 1st Place",
+          "presenter": "Cornell Tech"
+        },
+        {
+          "id": "blrbEWueq8PZxFYcC9L5",
+          "year": "2023",
+          "heading": "IC3 Blockchain Camp 2023 - Second Place: \"DECO\" from IC3",
+          "url": "https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "award",
+          "title": "IC3 Blockchain Camp 2023 - Second Place: \"DECO\"",
+          "presenter": "IC3"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "7b5Dh1fcPo0X1WTvSlUO",
+          "year": "2024",
+          "heading": "Solidity Programming Practical Implementation at Conference",
+          "url": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/uploads/3.BROCHURE_579691.pdf",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "talk",
+          "title": "Solidity Programming Practical Implementation",
+          "event": "Conference",
+          "location": "AICTE"
+        },
+        {
+          "id": "PDgiKIXnPbZXL4vcMNsR",
+          "year": "2023",
+          "heading": "Web3, Smart Contracts & Intro to Blockchain at Webinar",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScyf6JW-1qax6hRYcxfzPZijFoWjjkTfo1D8EBVxFTTq7Q62w/viewform?pli=1",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "talk",
+          "title": "Web3, Smart Contracts & Intro to Blockchain",
+          "event": "Webinar",
+          "location": "L.D College of Engineering"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "78EFiFYK0K2NnpJdvZ5Z",
+          "year": "2022",
+          "heading": "Blockchain Technology and Applications from Stanford Continuing Studies",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Blockchain Technology and Applications",
+          "organization": "Stanford Continuing Studies"
+        },
+        {
+          "id": "mPYgDvqtjN1L7x8JAItp",
+          "year": "2021",
+          "heading": "Certified Blockchain Developer from Blockchain Council",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Certified Blockchain Developer",
+          "organization": "Blockchain Council"
+        },
+        {
+          "id": "CxUP50oMDzmouyNQI5u4",
+          "year": "2020",
+          "heading": "Azure AI Fundamentals from Microsoft",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Azure AI Fundamentals",
+          "organization": "Microsoft"
+        }
+      ]
+    }
+  ]
+}
