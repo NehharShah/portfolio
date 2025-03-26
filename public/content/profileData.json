@@ -17,7 +17,7 @@
     },
     "sectionOrder": [
       "Projects",
-      "Contact",
+      "Contact", 
       "Side Projects",
       "Exhibitions",
       "Writing",
@@ -45,7 +45,7 @@
       "attachments": [],
       "type": "talk",
       "title": "Solidity Programming Practical Implementation",
-      "event": "Conference",
+      "event": "Conference", 
       "location": "AICTE"
     },
     {
@@ -227,7 +227,7 @@
   "education": [
     {
       "id": "9n8CP6wwNBFFwRS82X2T",
-      "year": "2023 — Now",
+      "year": "2023 — 2024",
       "heading": "Masters at New York University",
       "url": null,
       "collaborators": [],
@@ -253,6 +253,18 @@
     }
   ],
   "certifications": [
+    {
+      "id": "solana2024",
+      "year": "2024",
+      "heading": "School of Solana – Ackee Blockchain Security from Ackee Blockchain",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "School of Solana – Ackee Blockchain Security",
+      "organization": "Ackee Blockchain"
+    },
     {
       "id": "78EFiFYK0K2NnpJdvZ5Z",
       "year": "2022",
@@ -580,6 +592,18 @@
     {
       "name": "Certifications",
       "items": [
+        {
+          "id": "solana2024",
+          "year": "2024",
+          "heading": "School of Solana – Ackee Blockchain Security from Ackee Blockchain",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "School of Solana – Ackee Blockchain Security",
+          "organization": "Ackee Blockchain"
+        },
         {
           "id": "78EFiFYK0K2NnpJdvZ5Z",
           "year": "2022",
