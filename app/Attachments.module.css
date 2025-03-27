@@ -29,6 +29,12 @@
   overflow: hidden;
   position: relative;
   cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.media:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(132, 108, 91, 0.15);
 }
 
 .media img,
@@ -37,6 +43,8 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 12px;
+  border: 2px solid var(--ghibli-blue);
 }
 
 .media::after {

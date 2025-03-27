@@ -14,7 +14,15 @@ const Profile: React.FC<ProfileProps> = ({
     <div className={styles.profile}>
       <div className={styles.profileHeader}>
         <div className={styles.profilePhoto}>
-          <Image src={cv.general.profilePhoto} alt="" width={92} height={92} />
+          <div className={styles.photoInner}>
+            <Image 
+              src={cv.general.profilePhoto} 
+              alt="" 
+              width={140} 
+              height={140} 
+              priority
+            />
+          </div>
         </div>
         <div className={styles.profileInfo}>
           <h1>{cv.general.displayName}</h1>
@@ -67,7 +75,10 @@ const ProfileItem: React.FC<ProfileItemProps> = ({
   let title;
   if (experience.url) {
     title = <>
-      <a href={experience.url} target="_blank">{experience.heading}</a><span className={styles.linkArrow}>&#xfeff;<Arrow12 fill="var(--grey1)"/></span>
+      <a href={experience.url} target="_blank">{experience.heading}</a>
+      <span className={styles.linkArrow}>
+        &#xfeff;<Arrow12 fill="var(--white-text)"/>
+      </span>
     </>
   } else {
     title = experience.heading

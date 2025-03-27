@@ -2,6 +2,8 @@
   position: fixed;
   inset: 0;
   z-index: 999;
+  background: rgba(44, 58, 71, 0.85);
+  backdrop-filter: blur(20px);
 }
 
 .carousel {
@@ -10,6 +12,9 @@
   inset: 0px;
   z-index: 10;
   pointer-events: none;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 12px 48px rgba(132, 108, 91, 0.2);
 }
 
 .lightboxImage {
@@ -28,6 +33,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow-medium);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .imageWrap {
@@ -67,18 +76,19 @@
   bottom: 0;
   column-gap: 6px;
   z-index: 10;
-}
-
-.pagerDot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background-color: var(--grey1);
-  opacity: 0.1;
-}
-
-.pagerDot[data-active="true"] {
-  opacity: 0.5;
+  gap: 8px;
+  padding: 16px;
+  .pagerDot {
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.3);
+    transition: var(--transition-smooth);
+    &[data-active="true"] {
+      background: var(--ghibli-accent);
+      width: 24px;
+    }
+  }
 }
 
 .navigation {
@@ -118,7 +128,10 @@
   height: 24px;
   border-radius: 16px;
   border: none;
-  background-color: var(--wash2);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: var(--transition-smooth);
   top: 12px;
   right: 12px;
   cursor: pointer;
@@ -142,6 +155,11 @@
 
 .close::before {
   transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.close:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
 }
 
 .lightbox[data-mobile="true"] .carouselScroll {
